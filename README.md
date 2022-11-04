@@ -2,4 +2,4 @@
 
 Template project responsive portfiolio write in HTML and CSS
 
-<img src="template.png" />
+<a href="https://dkurpiel.github.io/Template-Portfolio/"> <img src="template.png" /> </a>
